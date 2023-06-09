@@ -5,9 +5,9 @@ import java.sql.*;
 import org.postgresql.Driver;
 
 public class DataBaseConnector {
-    private static final String URL = "jdbc:postgresql://pg/studs";
-    private static final String USERNAME = "s367987";
-    private static final String PASSWORD = "1I6o6L7H8qPAXV6X";
+    private static final String URL = ;
+    private static final String USERNAME = ;
+    private static final String PASSWORD = ;
 
     public static void getConnection() throws SQLException, ClassNotFoundException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException {
         Connection connection;
