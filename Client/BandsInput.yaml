@@ -1,0 +1,153 @@
+---
+- id: 5284405937777920001
+  name: "A"
+  coordinates:
+    x: -1000.0
+    "y": -1000.0
+    coordinates:
+    - -1000.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 4
+  - 27
+  numberOfParticipants: 123
+  singlesCount: 123
+  albumsCount: 123
+  genre: "ROCK"
+  bestAlbum:
+    name: "name"
+    sales: 123.0
+- id: 5642464480638025729
+  name: "xcfvgbhjk"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 1234
+  singlesCount: 1234
+  albumsCount: 12345
+  genre: "ROCK"
+  bestAlbum:
+    name: "cvgbhnjkm"
+    sales: 234.0
+- id: 1112814931609400321
+  name: "sxdcfvgbhn"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 2345
+  singlesCount: 23456
+  albumsCount: 34567
+  genre: "ROCK"
+  bestAlbum:
+    name: "cfvgbh"
+    sales: 34567.0
+- id: 2576226435864649729
+  name: "wxdcfvg"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 23456
+  singlesCount: 2345
+  albumsCount: 233454
+  genre: "ROCK"
+  bestAlbum:
+    name: "ASDDFFG"
+    sales: 2345.0
+- id: 4053008397173178369
+  name: "asdfdbgfn"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 12345
+  singlesCount: 12345
+  albumsCount: 12234
+  genre: "ROCK"
+  bestAlbum:
+    name: "qsd"
+    sales: 1234.0
+- id: 1561678247545490433
+  name: "dxcfvgb"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 123
+  singlesCount: 123
+  albumsCount: 123
+  genre: "ROCK"
+  bestAlbum:
+    name: "123"
+    sales: 12.0
+- id: 4430571420411739137
+  name: "dsfdgfb"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 123
+  singlesCount: 21
+  albumsCount: 122
+  genre: "ROCK"
+  bestAlbum:
+    name: "dsvf"
+    sales: 12.0
+- id: 1778617409090210817
+  name: "sadvf"
+  coordinates:
+    x: 100.0
+    "y": -1000.0
+    coordinates:
+    - 100.0
+    - -1000.0
+  creationDate:
+  - 2023
+  - 5
+  - 11
+  numberOfParticipants: 123
+  singlesCount: 12
+  albumsCount: 12
+  genre: "ROCK"
+  bestAlbum:
+    name: "sdvf"
+    sales: 123.0
