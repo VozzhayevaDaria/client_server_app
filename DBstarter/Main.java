@@ -11,8 +11,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
         final String URL = "jdbc:postgresql://pg/studs";
-        final String USERNAME = "s367987";
-        final String PASSWORD = "1I6o6L7H8qPAXV6X";
+        final String USERNAME = "";
+        final String PASSWORD = "";
         Connection connection = null;
         ResultSet rs;
         String query;
